@@ -1,0 +1,14 @@
+{
+    "coffee_shop": [
+        {"name": "espresso", "price": 120, "id": 1},
+        {"name": "cappuccino", "price": 120, "id": 2},
+        {"name": "latte", "price": 80, "id": 3},
+        {"name": "mocha", "price": 70, "id": 4},
+        {"name": "macchiato", "price": 70, "id": 5},
+        {"name": "americano", "price": 60, "id": 6},
+        {"name": "iced coffee", "price": 60, "id": 7},
+        {"name": "frappuccino", "price": 50, "id": 8},
+        {"name": "chai tea latte", "price": 50, "id": 9},
+        {"name": "hot chocolate", "price": 50, "id": 0}
+    ]
+}
