@@ -6,7 +6,7 @@ from datetime import datetime
 
 bot = telebot.TeleBot(bot_token)
 
-admin_ids = [6122721247]#]
+admin_ids = [---------]
 
 # Load items from JSON file if available
 def load_items_from_json():
@@ -290,4 +290,5 @@ def send_welcome(message):
     bot.send_message(message.chat.id,welcome_msg, reply_markup=main_menu_markup(message.chat.id))
 
 # Start polling
+
 bot.polling()
